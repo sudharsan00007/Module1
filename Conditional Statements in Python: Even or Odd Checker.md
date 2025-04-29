@@ -28,3 +28,5 @@ even_number(n)
 ![image](https://github.com/user-attachments/assets/42822f8d-36e8-4ba1-a1e7-8126094ed105)
 
 ## Result
+
+Thus, the python program was executed successfully
